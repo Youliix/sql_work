@@ -1,0 +1,8 @@
+BEGIN;
+
+CREATE DATABASE films
+WITH
+  OWNER = 'postgres'
+  ENCODING = 'utf-8'
+
+COMMIT;

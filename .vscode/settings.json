@@ -1,0 +1,24 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "psql",
+      "database": "postgres",
+      "username": "postgres",
+      "password": "80805263"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "psql_films",
+      "database": "films",
+      "username": "postgres",
+      "password": "80805263"
+    }
+  ]
+}
